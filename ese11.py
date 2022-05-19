@@ -1,0 +1,5 @@
+input_1=input('inserire numero:\t')
+input_2=input('inserire numero:\t')
+x=float(input_1)
+y=float(input_2)
+print((x+y)/(x-y))

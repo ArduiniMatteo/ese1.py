@@ -1,0 +1,5 @@
+nome = input('inserisci nome:\t')
+num=len(nome)
+print ('il nome è formato da ')
+print (num)
+print ('caratteri')
